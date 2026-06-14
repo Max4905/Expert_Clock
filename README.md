@@ -1,10 +1,12 @@
-# Clock for Classroom —— 一款极其简洁的教室时钟软件
+# Expert_Clock —— 一款极其简洁的教室时钟软件
 
 <img width="466" height="218" alt="45d1ef34-3e92-4775-bffe-8e32f5584f0c" src="https://github.com/user-attachments/assets/160ff2da-0e22-49e9-b2d7-4f16d6f74692"  data-align="center" style="zoom:67%;">
 
 本软件可以在教室大屏幕上以大字号显示时间，同时可以在不更改系统时间的情况下校正时间，以匹配学校铃声。
 
 使用 Python Tkinter 构建，无任何联网组件，保证简洁。项目免安装，解压以后即可运行。
+
+请注意：本软件主要功能为全屏时钟，没有在现在的、也不会在将来的版本中添加更高级的桌面挂件功能。如果需要相关功能，请移步 ClassIsland。
 
 ## 为什么是这个
 
